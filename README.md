@@ -31,7 +31,7 @@ By: Cory Boris
 None so far
 
 ## Future Updates:
-It would cool to have a gui for interacting with the settings here. For now, this is more or less a boiler plate for anyone interested in hardwiring their own effects' mappings.
+It would cool to have a gui for interacting with the settings here. For now, this is more or less a boilerplate for anyone interested in hardwiring their own effects' mappings.
 
 ## Other Related Programs:
 <a href="https://coryboris.gumroad.com/l/TrueAutoColor">TrueAutoColor</a>  
