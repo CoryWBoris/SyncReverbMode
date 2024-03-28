@@ -24,8 +24,8 @@ By: Cory Boris
 ## Features:  
 -There are two modes: _all_mode = False and _all_mode = True. False means only Ableton native reverbs named 'Reverb' which are added to the set after the set is loaded will be changed, True means all reverb modules named 'Reverb' which are native to ableton will be changed.  
 -You can modify the parameters' span in "calculate_value" as they pertain to a parameter other than predelay as i defined it here by changing the a and b values at the top. I lucked tf out and found out that the native Ableton Reverb's predelay paramter is logarithmic, but this isn't a guarantee for every parameter knob.  
--You can change the note you use other than 32nd note by replacing the number 32 with whatever note you want to use.
--The reverb's predelay automation operates between .5ms and 250ms, and so if the calculation produces a predelay value less than .5ms or greater than 250ns, I multiply by 2 or divide by 2 respectively, to make sure the predelay value is in a valid range. So for extreme bpm, you may not get the exact subdivison you specify, but rather, a subdivision half the size or twice the size depending on if you push the lower or upper bounds of the parameter range.  
+-You can change the note you use other than 32nd note by replacing the number 32 with whatever note you want to use.  
+-The reverb's predelay automation operates between .5ms and 250ms, and so if the calculation produces a predelay value less than .5ms or greater than 250ms, I multiply by 2 or divide by 2 respectively, to make sure the predelay value is in a valid range. So for extreme bpm, you may not get the exact subdivison you specify, but rather, a subdivision half the size or twice the size depending on if you push the lower or upper bounds of the parameter range.  
 
 ## Open Issues:
 None so far
