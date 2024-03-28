@@ -49,7 +49,7 @@ class SyncReverbMode(ControlSurface):
             if self._all_mode or reverb not in self._initial_reverbs:
                 pre_delay_parameter = next((p for p in reverb.parameters if p.name == 'Predelay'), None)
                 if pre_delay_parameter is not None:
-                    new_pre_delay = 60000 / (self._song.tempo * 4) / 32
+                    new_pre_delay = 60000 / (self._song.tempo) * 4 / 32
                     # Ensure the new pre-delay is within the range of 0.5 to 250 ms
                     while new_pre_delay < 0.5:
                         new_pre_delay *= 2
