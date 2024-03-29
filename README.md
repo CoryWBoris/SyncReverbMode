@@ -32,7 +32,7 @@ By: Cory Boris
 None so far
 
 ## Future Updates:
-It would cool to have a gui for interacting with the settings here. For now, this is more or less a boilerplate for anyone interested in hardwiring their own effects' mappings.  
+It would be cool to have a gui for interacting with the settings here. For now, this is more or less a boilerplate for anyone interested in hardwiring their own effects' mappings.  
 I'd like to bring 'Early Reflections Spin' and 'Decay' into the mix. Working on it!  
 
 ## Other Related Programs:
