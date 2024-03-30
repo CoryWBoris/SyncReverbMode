@@ -29,7 +29,7 @@ By: Cory Boris
 -Reverb pre delay time is properly set automatically on loading a set based on bpm. False Mode ignores previous reverbs, True doesn't ignore them.  
 
 ## Open Issues:
-None so far
+None so far. Please try and break it!  
 
 ## Future Updates:
 It would be cool to have a gui for interacting with the settings here. For now, this is more or less a boilerplate for anyone interested in hardwiring their own effects' mappings.  
@@ -44,5 +44,7 @@ A stunning custom color layout maker for Ableton Live 11+ on Mac AND Windows whi
 - Venmo: @Cory-Boris
 - Ethereum Address: `0x3f6af994201c17eF1E86ff057AB2a2F6CB0D1f6a`
 
+And if this script means something to your workflow, consider showing your love with a star :) ⭐️
 Thank you! 🔥🥰✌🏻🙏🏻
+
 
