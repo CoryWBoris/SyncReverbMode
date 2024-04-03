@@ -1,8 +1,10 @@
 # SyncReverbMode
 
 ![Stable Badge](https://img.shields.io/badge/-stable-blue)  
+
+![Demo](./assets/SyncReverbModeDemo.gif)  
 By: Cory Boris  
-© 2024 MIT License
+© 2024 MIT License  
 ## A Control Surface for Automatically Syncing Ableton's Native Reverb's Predelay with BPM In Ableton Live 11+ WITHOUT PLUGINS ;)
 
 \*\*for Mac or Windows\*\*
